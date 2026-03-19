@@ -1,13 +1,6 @@
-- 👋 Hi, I’m @ArunPrasad341
-- 👀 I’m interested in ...programing
-- 🌱 I’m currently learning ...BE ECE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...email
-  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ArunPrasad341/ArunPrasad341 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Arun Prasad K — VLSI Design & Verification Enthusiast
+⚡ Skilled in Verilog/SystemVerilog | ASIC Design | Cadence Virtuoso | Synopsys
+🌱 Currently learning UVM Testbench Methodology & RTL-to-GDS flow
+🔭 Working on: Quantum-Inspired Self-Healing BNN (Ultra-Low-Power VLSI)
+🏆 AMD Slingshot Round 2 | Top 5 IIITDM Ideathon | Top 30/1132 Digipoll
+📫 Reach me: arunprasadk.ece2024@citchennai.net
